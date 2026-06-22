@@ -4,7 +4,7 @@
 <head>
  <title>FALLING PAGE</title>
 </head>
-<body style="background-color:DarkSlateGrey;">
+<body style="background-color:Black;">
 <a href="DELTABING.html">DELTARUNE Bingo</a>
 </body>
 </html>
